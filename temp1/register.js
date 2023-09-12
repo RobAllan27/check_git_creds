@@ -1,6 +1,6 @@
 function registerRequest(arg1, arg2) {
   if (arg1 === 'apple' && arg2 === 'banana') {
-    return 'Fruit salad';
+    return 'Fruit salad!!!';
   } else if (arg1 === 'dog' && arg2 === 'cat') {
     return 'Pet lovers';
   } else {
