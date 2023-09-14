@@ -8,7 +8,7 @@ function checkCredentials(username, password) {
     return "Login really wonderfully successful Today!";
 
   } else {
-    return "Invalid username or password. Please try again.";
+    return "Invalid username or password. Please try again - slightly different";
   }
 }
 
