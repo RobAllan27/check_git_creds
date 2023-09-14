@@ -5,9 +5,10 @@ const expectedPassword = "mypassword";
 // Function to check if the entered username and password are valid
 function checkCredentials(username, password) {
   if (username === expectedUsername && password === expectedPassword) {
-    return "Login really wonderfully successful!";
+    return "Login really wonderfully successful Today!";
+
   } else {
-    return "Invalid username or password. Please try again.";
+    return "Invalid username or password. Please try again - slightly different";
   }
 }
 
